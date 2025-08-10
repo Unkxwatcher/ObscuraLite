@@ -29,4 +29,4 @@ Thumbs.db
 # Собранные бинарные файлы
 *.exe
 *.dll
-*.so
+*.so"GeoLite2-City.mmdb" 
