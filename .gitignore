@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# виртуальное окружение 
+venv/
+env/
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Папка данных 
+data/
+
+# IDE и редакторы
+.vscode/
+.idea/
+
+# Файлы системы
+.DS_Store
+Thumbs.db
+
+# Конфигурации ОС
+*.bak
+*.swp
+
+# Собранные бинарные файлы
+*.exe
+*.dll
+*.so
